@@ -19,13 +19,10 @@ The report explores how gender pay inequality varies across industries, employer
 
 ### The report combines:
 
-1.Employer-level gender pay metrics
-
-2.Sector-level aggregation using UK SIC codes
-
-3.Pay quartile gender distribution
-
-4.Bonus eligibility analysis
+- Employer-level gender pay metrics
+- Sector-level aggregation using UK SIC codes
+- Pay quartile gender distribution
+- Bonus eligibility analysis
 
 This approach allows comparison between UK-wide structural patterns and company-specific outcomes, highlighting how inequality often emerges at higher-paid and senior levels.
 
@@ -51,23 +48,18 @@ This approach allows comparison between UK-wide structural patterns and company-
 
 ## 📊 Tools & Technologies
 
-1.Power BI (Power BI Desktop & Power BI Service)
-
-2.DAX
-
-3.UK SIC Classification
+- Power BI (Power BI Desktop & Power BI Service)
+- DAX
+- UK SIC Classification
 
 ## 🧭 Interactivity
 
 **The report is fully interactive. Users can:**
 
-1.Filter by employer size
-
-2.Select industry sectors
-
-3.Explore how distributions and KPIs change dynamically
-
-4.Navigate between overview and company-level analysis using buttons
+- Filter by employer size
+- Select industry sectors
+- Explore how distributions and KPIs change dynamically
+- Navigate between overview and company-level analysis using buttons
 
 🔗 Interactive Power BI report:
 (https://app.powerbi.com/view?r=eyJrIjoiMjZiYjgyMzYtZWZjZS00N2MxLWEwZDItN2Y3MTJlMjhhNzNkIiwidCI6IjY1NWVhZjVhLTBhMTctNDEzOS05NzU5LTFlMDIzMTRkMDJhYiIsImMiOjZ9)
@@ -81,15 +73,11 @@ Additional details can be shared upon request.
 
 ## 📈 Key insights
 
-1.Gender pay gaps are often structural, not role-based
-
-2.Under-representation of women in top pay quartiles is a major driver of inequality
-
-3.Mean and median gaps capture different aspects of pay distribution
-
-4.Bonus pay gaps frequently reflect who is eligible, not bonus size
-
-5.Company-level patterns can differ sharply from UK-wide averages
+- Gender pay gaps are often structural, not role-based
+- Under-representation of women in top pay quartiles is a major driver of inequality
+- Mean and median gaps capture different aspects of pay distribution
+- Bonus pay gaps frequently reflect who is eligible, not bonus size
+- Company-level patterns can differ sharply from UK-wide averages
 
 ## 📷 Report preview
 ### Executive Overview — UK-wide gender pay gap patterns
