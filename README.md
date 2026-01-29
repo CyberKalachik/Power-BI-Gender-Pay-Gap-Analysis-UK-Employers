@@ -9,19 +9,22 @@ The report explores how gender pay inequality varies across industries, employer
 
 ### This project focuses not only on visualization, but on analytical storytelling and structural interpretation, addressing questions such as:
 
--How gender pay gaps differ across UK sectors
--Why mean and median pay gaps can diverge
--How women’s representation in top pay quartiles affects headline gaps
--Whether bonus pay gaps reflect bonus size or access to bonuses
--How individual employers can deviate strongly from national averages
+- How gender pay gaps differ across UK sectors
+- Why mean and median pay gaps can diverge
+- How women’s representation in top pay quartiles affects headline gaps
+- Whether bonus pay gaps reflect bonus size or access to bonuses
+- How individual employers can deviate strongly from national averages
 
 ## 🧠 Analytical approach
 
 ### The report combines:
 
 1.Employer-level gender pay metrics
+
 2.Sector-level aggregation using UK SIC codes
+
 3.Pay quartile gender distribution
+
 4.Bonus eligibility analysis
 
 This approach allows comparison between UK-wide structural patterns and company-specific outcomes, highlighting how inequality often emerges at higher-paid and senior levels.
@@ -30,26 +33,28 @@ This approach allows comparison between UK-wide structural patterns and company-
 
 **This project helped me practice and strengthen:**
 
--Data modeling in Power BI
--Advanced DAX measures
--KPI and executive summary design
--Sector-based analysis using classification systems (SIC)
--Analytical storytelling with interactive dashboards
+- Data modeling in Power BI
+- Advanced DAX measures
+- KPI and executive summary design
+- Sector-based analysis using classification systems (SIC)
+- Analytical storytelling with interactive dashboards
 
 ## 🔍 Additional insights
 
 **Beyond high-level KPIs, the report includes:**
 
--Distribution analysis of median gender hourly pay gaps
--Sector comparisons highlighting structural inequality
--Pay quartile analysis showing where imbalance emerges
--Bonus eligibility analysis separating access from amount
--An interactive insights panel explaining key findings in context
+- Distribution analysis of median gender hourly pay gaps
+- Sector comparisons highlighting structural inequality
+- Pay quartile analysis showing where imbalance emerges
+- Bonus eligibility analysis separating access from amount
+- An interactive insights panel explaining key findings in context
 
 ## 📊 Tools & Technologies
 
 1.Power BI (Power BI Desktop & Power BI Service)
+
 2.DAX
+
 3.UK SIC Classification
 
 ## 🧭 Interactivity
@@ -57,8 +62,11 @@ This approach allows comparison between UK-wide structural patterns and company-
 **The report is fully interactive. Users can:**
 
 1.Filter by employer size
+
 2.Select industry sectors
+
 3.Explore how distributions and KPIs change dynamically
+
 4.Navigate between overview and company-level analysis using buttons
 
 🔗 Interactive Power BI report:
@@ -74,9 +82,13 @@ Additional details can be shared upon request.
 ## 📈 Key insights
 
 1.Gender pay gaps are often structural, not role-based
+
 2.Under-representation of women in top pay quartiles is a major driver of inequality
+
 3.Mean and median gaps capture different aspects of pay distribution
+
 4.Bonus pay gaps frequently reflect who is eligible, not bonus size
+
 5.Company-level patterns can differ sharply from UK-wide averages
 
 ## 📷 Report preview
@@ -84,7 +96,7 @@ Additional details can be shared upon request.
 
 ![Page1](screenshots/Page1.jpg)
 
-### Sector-Level Analysis — median gender pay gap by industry
+### Sector-Level Analysis — median gender pay gap by industry and employer size
 
 ![Page2](screenshots/Page2.jpg)
 
